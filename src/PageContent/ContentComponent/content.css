@@ -1,0 +1,11 @@
+.top-carousel-item {
+  height: 300px;
+  /* color: "#fff"; */
+  background-color: "#F5F5F5";
+  line-height: 160px;
+  text-align: center;
+}
+
+.site-back-top-basic {
+  color: rgba(64, 64, 64, 0.6);
+}

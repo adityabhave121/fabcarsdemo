@@ -1,0 +1,21 @@
+#components-layout-demo-top-side-2 .logo {
+  width: 120px;
+  height: 31px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px 28px 16px 0;
+  float: left;
+}
+
+.site-layout-header {
+  background: #fff;
+  height: 90px;
+}
+
+/* .custom-menu-item-class .ant-menu-item-selected {
+  color: #ff8201;
+  border-bottom: 2px solid #ff8201;
+} */
+
+/* // "start": "react-scripts start",
+    // "build": "react-scripts build",
+    // "test": "react-scripts test", */
